@@ -1,0 +1,23 @@
+{
+    "networth": {
+        "apiKey": "c05602f4-4272-4a47-870a-c1e61d3c8999"
+    },
+
+    "URLS": {
+        "apiURL": ""
+    },
+
+    "webhook": {
+        "webhookURL": "https://discord.com/api/webhooks/1089957964758122496/EadG10PlKqAY1Nm2Ig765PKj_eUAXSWrco2Iz8xkuc9xT9Pa13mY9BMk7cjzui1Gs2bM"
+    },
+
+    "discord": {
+        "bot_token": ""
+    },
+
+    "azure" : {
+        "client_id": "759bd9f1-8e26-4cf9-bfda-5fca897a6167",
+        "client_secret": "930cda2a-c63e-4d8a-b657-43c7e4429b5b",
+        "redirect_uri": "chumoi.imaginehaxing.xyz"
+    }
+}
