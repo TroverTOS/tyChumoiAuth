@@ -1,8 +1,5 @@
 # ChumoiAuth
 OAUTH RAT
-
-TY FOR BUY
-
 # Setup
 
 any extra support dm ce ChumoiAuth#3755
